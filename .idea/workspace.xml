@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a2ffca7-d0c0-4c20-971f-0ca0f5f95760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/IntSearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/IntSearchRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/IntSearchRange.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +63,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.IntSearchRange">
-    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.ContainerWithMostWater" />
+  <component name="RunManager" selected="Application.GenerateParentheses">
+    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DivideTwoIntegers" />
       <module name="ltc_medium" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DivideTwoIntegers" />
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.GenerateParentheses" />
       <module name="ltc_medium" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.IntSearchRange" />
         <item itemvalue="Application.DivideTwoIntegers" />
         <item itemvalue="Application.LetterCombinations" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.ContainerWithMostWater" />
       </list>
     </recent_temporary>
   </component>
@@ -166,38 +167,38 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="482" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1628490050633" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1631511855359">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1631598486394">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1631511855359" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1631511855358">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1631598486394" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1631598486393">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1631511855358" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1631511855357">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1631598486393" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1631598486393">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1631511855357" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1631511855359">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1631598486393" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1631598486393">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1631511855359" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1631422170016">
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1631598486393" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1631597459747">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1631422170016" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1631422170015">
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1631597459747" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1631597459746">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1631422170015" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1631422170014">
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1631597459746" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1631597459746">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1631422170014" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1631422170015">
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1631597459746" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1631597459746">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1631422170015" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1631597459746" />
     <state x="207" y="23" key="SettingsEditor" timestamp="1627839369620">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -243,23 +244,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/IntSearchRange.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/IntSearchRange.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/IntSearchRange.java</url>
           <line>96</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/IntSearchRange.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

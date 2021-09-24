@@ -21,7 +21,7 @@ public class GenerateParentheses {
     public static List<String> generateParenthesis(int n) {
         List<String>out_put = new ArrayList<>();
       backTrack(out_put,"",0,0,n);
-       
+
       return out_put;
 
     }

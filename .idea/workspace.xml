@@ -23,12 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a2ffca7-d0c0-4c20-971f-0ca0f5f95760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/MultiplyStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetCode/med1_30/GenerateParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/GenerateParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetCode/med1_30/GenerateParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Practice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +62,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33448276" />
   </component>
-  <component name="RunManager" selected="Application.CountAndSay">
+  <component name="RunManager" selected="Application.MultiplyStrings">
     <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.CountAndSay" />
-      <module name="ltc_medium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.med1_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.DivideTwoIntegers" />
       <module name="ltc_medium" />
       <extension name="coverage">
         <pattern>
@@ -119,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.med1_30.MultiplyStrings" />
+      <module name="ltc_medium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.med1_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice" />
       <module name="ltc_medium" />
@@ -128,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplyStrings" />
         <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.IntSearchRange" />
-        <item itemvalue="Application.DivideTwoIntegers" />
       </list>
     </recent_temporary>
   </component>
@@ -160,41 +156,50 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="482" y="131" key="#xdebugger.evaluate" timestamp="1628490050633">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="482" y="130" key="#xdebugger.evaluate" timestamp="1632694085772">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state x="482" y="130" key="#xdebugger.evaluate/0.23.1440.804@0.23.1440.804" timestamp="1632694085772" />
     <state x="482" y="131" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1628490050633" />
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom" timestamp="1632463503761">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1632694987276">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1632463503761" />
-    <state width="1358" height="238" key="GridCell.Tab.0.center" timestamp="1632463503760">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1632694987276" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1632463600271" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1632694987275">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1632463503760" />
-    <state width="1358" height="238" key="GridCell.Tab.0.left" timestamp="1632463503760">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1632694987275" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1632463600270" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1632694987275">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1632463503760" />
-    <state width="1358" height="238" key="GridCell.Tab.0.right" timestamp="1632463503760">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1632694987275" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1632463600270" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1632694987275">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1358" height="238" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1632463503760" />
-    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1632463503762">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1632694987275" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1632463600271" />
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1632694447802">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1632694447802" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1632463503762" />
-    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1632463503761">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.center" timestamp="1632694447801">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1632694447801" />
     <state width="1358" height="238" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1632463503761" />
-    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1632463503761">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.left" timestamp="1632694447801">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1632694447801" />
     <state width="1358" height="238" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1632463503761" />
-    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1632463503761">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="238" key="GridCell.Tab.1.right" timestamp="1632694447802">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1632694447802" />
     <state width="1358" height="238" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1632463503761" />
     <state x="207" y="23" key="SettingsEditor" timestamp="1627839369620">
       <screen x="0" y="23" width="1440" height="808" />
@@ -270,29 +275,9 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CountAndSay.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CountAndSay.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CountAndSay.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CountAndSay.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/CountAndSay.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="30" />
+          <url>file://$PROJECT_DIR$/src/test/java/LeetCode/med1_30/MultiplyStrings.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
